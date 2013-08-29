@@ -5,3 +5,7 @@ This is a Sencha touch 2 app for demo which Shows The Flip animation of the Senc
 Visit my blog 
 
 http://javacourseblog.blogspot.com
+
+
+
+Copyright © <2013> <Ashish Nautiyal>
